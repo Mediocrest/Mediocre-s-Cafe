@@ -1349,9 +1349,9 @@ input, select, textarea {
 			@media(max-width: 560px){
 				#header .content p {
 					text-transform: none;
-					letter-spacing: 0.2rem;
-					font-size: 11px;
-					line-height: 2;
+					letter-spacing: 1.5px;
+					font-size: 14px;
+					line-height: 1.5;
 					margin-inline: 1rem;
 					margin-top: 2rem;
 				}
